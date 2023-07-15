@@ -22,7 +22,7 @@ const About = () => {
                                           <articule   className="about__card" data-aos="zoom-in">
                                               <FaAward  className="about__icon"/>
                                               <h5>Experience</h5>
-                                              <small>2+ years Working</small>
+                                              <small>1+ years Working</small>
                                           </articule>
 
                                           <articule   className="about__card" data-aos="zoom-in">
@@ -38,7 +38,7 @@ const About = () => {
                                           </articule>
                                   </div>
 
-                                  <p>Hello world! I am Funmiluyi Daniel, a Front-end Web Developer based out of Lagos, Nigeria. From choreography on a page to lines of code on a web page, I love combining the worlds of logic and creative design to make eye-catching, accessible, and user-friendly websites and applications <br/> I am exicted to make the leap and continue refining my skills with the right company. </p>
+                                  <p>Hello world! I am Precious Okoro, a Front-end Web Developer based out of Lagos, Nigeria. From choreography on a page to lines of code on a web page, I love combining the worlds of logic and creative design to make eye-catching, accessible, and user-friendly websites and applications <br/> I am exicted to make the leap and continue refining my skills with the right company. </p>
 
                                   <a href="#contact" className="btn btn-primary">Let's Talk</a>
                 </div>

@@ -45,7 +45,7 @@ const Modalservice = () => {
                      <p>I can create engaging posts on your page, share graphically designed pictures and videos that would interest your potential buyers</p>
                      <ul>
                          <li><AiOutlineCheck className="modal__check" />Blogs</li>
-                         <li><AiOutlineCheck className="modal__check"/>Educational Websites</li>
+                         <li><AiOutlineCheck className="modal__check"/>Products Brand Ambassador</li>
                          <li><AiOutlineCheck className="modal__check"/>Video Content</li>
                          <li><AiOutlineCheck className="modal__check"/>Social media updates</li>
                      </ul>

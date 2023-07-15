@@ -9,7 +9,7 @@ const Contact = () => {
     const sendEmail = (e) => {
         e.preventDefault();
     
-        emailjs.sendForm('service_fpy3k7s', 'template_a1t3lik', form.current, 'F-9-XZ4coXTTKup2R')
+        emailjs.sendForm('service_212ddjf', 'template_a75q9pt', form.current, 'UbRi_Pi3LrlvLAYF8')
 
         e.target.reset()
           .then((result) => {
@@ -28,20 +28,15 @@ const Contact = () => {
                    <article className="contact__option" data-aos="zoom-in">
                        <MdOutlineEmail className="contact__option-icon"/>
                        <h4>Email</h4>
-                       <h5>Danielmide10@gmail.com</h5>
-                       <a href="mailto:Danielmide10@gmail.com" target="_blank">Send a Message</a>
+                       <h5>okoropreciousejiro19</h5>
+                       <a href="mailto:okoropreciousejiro19@gmail.com" target="_blank">Send a Message</a>
                    </article>
-                   <article className="contact__option" data-aos="zoom-in">
-                       <RiMessengerLine className="contact__option-icon"/>
-                       <h4>Messenger</h4>
-                       <h5>Daniel Funmiluyi</h5>
-                       <a href="https://m.me/daniel.olamide.39904" target="_blank">Send a Message</a>
-                   </article>
+                   
                    <article className="contact__option" data-aos="zoom-in">
                        <BsWhatsapp className="contact__option-icon"/>
                        <h4>Whatsapp</h4>
                        <h5>Send a Message</h5>
-                       <a href="https://wa.me/+2348166827347" target="_blank">Send a Message</a>
+                       <a href="https://wa.me/+2347034723137" target="_blank">Send a Message</a>
                    </article> 
                 </div>
                     <form ref={form} onSubmit={sendEmail}>

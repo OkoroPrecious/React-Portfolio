@@ -15,24 +15,20 @@ import 'swiper/modules/pagination/pagination.min.css'
 const data = [
     {
         avatar: Duro,
-        name: "Durosinmi Victory",
-        review: " As a graphic designer working with Daniel has been a wholehearted privilege, I look forward to working more with him  "
+        name: "Ezekiel",
+        review: " As a senior frontend engineer working with Precious has been a wholehearted privilege, I look forward to working more with her  "
     },
     {
         avatar: Rose,
-        name: "Reuben Rose",
-        review: "He is a lifesaver! I came to him with an important project and a tight turnaround and not only did he come through, he rocked it."
+        name: "Chima",
+        review: "She is a lifesaver! I came to her with an important project and a tight turnaround and not only did she come through, she rocked it."
     },
     {
         avatar: Isaac,
-        name: "Isaac Ugwu",
-        review: "Extremely good service, easy to approach and relate with. I am satisfied with my decision for choosing Daniel"
+        name: "Daniel",
+        review: "Extremely good service, easy to approach and relate with. I am satisfied with my decision for choosing Precious"
     },
-   /* {
-       avatar: Dan,
-        name: "Olivia Stackhouse",
-        review: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione odio tempora labore necessitatibus qui quis possimus assumenda." 
-    }*/
+   
 ]
 
 const Testimonials = () => {

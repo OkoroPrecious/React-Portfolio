@@ -7,7 +7,7 @@ import { IoLogoTwitter } from 'react-icons/io'
 const Footer = () => {
     return (
         <footer>
-            <a href="#" className="footer__logo">Daniel Funmiluyi</a>
+            <a href="#" className="footer__logo">Precious Okoro</a>
 
             <ul className="permalinks">
                 <li><a href="#">Home</a></li>
@@ -20,15 +20,15 @@ const Footer = () => {
             </ul>
 
             <div className="footer__socials">
-                <a href="https://web.facebook.com/daniel.olamide.39904" target="_blank"><FaFacebookF /></a>
+                <a href="https://web.facebook.com/precious.lily.948" target="_blank"><FaFacebookF /></a>
                 
-                <a href="https://www.linkedin.com/in/daniel-funmiluyi" target="_blank"><BsLinkedin /></a>
-                <a href="https://twitter.com/DanielOlamide14" target="_blank"><IoLogoTwitter /></a>
+                <a href="https://www.linkedin.com/in/preciousokoro/" target="_blank"><BsLinkedin /></a>
+                <a href="https://twitter.com/OkoroPreciousE" target="_blank"><IoLogoTwitter /></a>
             </div>
 
             <div className="footer__copyright">
                 <small>
-                    &copy; Funmiluyi Daniel. All right reserved.
+                    &copy; Precious Okoro. All right reserved.
                 </small>
             </div>
         </footer>
